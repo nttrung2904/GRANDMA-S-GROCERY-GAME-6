@@ -1,0 +1,65 @@
+{
+  "so_tien": 1924988,
+  "ngay_hien_tai": 6,
+  "kho_hang": [
+    {
+      "ten": "Mì tôm",
+      "gia_nhap": 3000,
+      "gia_ban": 5000,
+      "so_luong_ton": 40
+    },
+    {
+      "ten": "Kẹo mút",
+      "gia_nhap": 1000,
+      "gia_ban": 2000,
+      "so_luong_ton": 91
+    },
+    {
+      "ten": "Cà phê đen",
+      "gia_nhap": 8000,
+      "gia_ban": 12000,
+      "so_luong_ton": 19
+    },
+    {
+      "ten": "Nước mắm",
+      "gia_nhap": 25000,
+      "gia_ban": 35000,
+      "so_luong_ton": 10
+    },
+    {
+      "ten": "Xà bông cục",
+      "gia_nhap": 7000,
+      "gia_ban": 10000,
+      "so_luong_ton": 33
+    },
+    {
+      "ten": "Áo mưa",
+      "gia_nhap": 15000,
+      "gia_ban": 25000,
+      "so_luong_ton": 13
+    },
+    {
+      "ten": "Nước đá",
+      "gia_nhap": 5000,
+      "gia_ban": 10000,
+      "so_luong_ton": 16
+    },
+    {
+      "ten": "Bia/Mồi nhậu",
+      "gia_nhap": 20000,
+      "gia_ban": 35000,
+      "so_luong_ton": 8
+    }
+  ],
+  "so_ban_thieu": {
+    "Bé Na": 13729,
+    "Bà Tư": 15924,
+    "Anh Năm": 7912,
+    "Cô Lan": 447
+  },
+  "su_kien_hien_tai": "tre_trom",
+  "pending_delivery": null,
+  "location": "shop",
+  "shop_open": false,
+  "activity": "counter"
+}
